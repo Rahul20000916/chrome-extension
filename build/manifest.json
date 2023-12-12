@@ -1,0 +1,14 @@
+{
+  "name": "My Search Engines",
+  "description": "open your go to tabs in one click",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "action":{
+    "default_title": "My Search Engines",
+    "default_popup": "index.html",
+    "default_icons": {
+      "16":"logo192.png",
+      "128":"logo512.png"
+    }
+  }
+}
